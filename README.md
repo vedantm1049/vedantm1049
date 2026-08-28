@@ -4,7 +4,7 @@ I build and operate consumer businesses — owning P&L, procurement, hiring and 
 
 Most recently, I took SHOT, noon's café business, from zero to an AED 19.6M annualised run-rate across 85 sites, and built AI tools used in its day-to-day operations.
 
-The repos here are AI tools I designed and shipped for that business. They're rebuilt brand-neutral with synthetic data so I can show the logic without exposing anything proprietary — the production versions used our real data and were wired into our actual workflows.
+The repos here are AI tools I designed and shipped for that business. I am not a software engineer — I write the spec, the logic and the product decisions, then build and ship these using Claude Code / Cowork. Same way I build the AI agents in my day job. They're rebuilt brand-neutral with synthetic data so I can show the logic without exposing anything proprietary — the production versions used our real data and were wired into our actual workflows.
 
 [**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control) — turns refund, rating and sales data into store rankings, root causes and prioritized action points. Built as a Claude Code / Cowork plugin, this is how the team decided which stores needed attention first, each period. In production, this is what held order ratings at 4.5/5 and retention at 47% while the network scaled to 85 sites.
 
