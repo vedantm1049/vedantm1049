@@ -1,6 +1,6 @@
 ### Vedant Jain
 
-**Zero-to-one and AI-enabled operator.**
+**AI-enabled zero-to-one operator.**
 
 I build and operate consumer businesses — owning P&L, procurement, hiring and the operating model. I also use AI to automate the parts of the business that should not stay manual.
 
