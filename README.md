@@ -6,12 +6,15 @@ I build and operate consumer businesses - owning P&L, procurement, hiring and th
 
 Most recently, I took SHOT, noon's café business, from zero to an AED 19.6M annualised run-rate across 85 sites, and built AI tools used in its day-to-day operations.
 
-Two of the projects here are brand-neutral rebuilds of AI tools I designed and shipped for the cafe business. Food Truth Scanner is an independent side project. I own the problem definition, product logic and product decisions, and use Claude Code / Cowork to build and ship the software.
+Two of the projects here are brand-neutral rebuilds of AI tools I designed and shipped for the cafe business. Chief of Staff Briefing and Food Truth Scanner are independent side projects. I own the problem definition, product logic and product decisions, and use Claude Code to build and ship the software.
 
 [**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control): turns refund, rating and sales data into store rankings, root causes and prioritized action points. Built as a Claude Code / Cowork plugin, this is how the team decided which stores needed attention first, each period. The system became part of the production QC loop as the network scaled to 85 sites, while order ratings remained at 4.5/5 and retention reached 47%.\
 [**Open the QC demo**](https://vedantm1049.github.io/multi-cafe-quality-control/): explore the static dashboard with synthetic sample data. No app startup required.
 
 [**brand-consistent-photo-studio**](https://github.com/vedantm1049/brand-consistent-photo-studio): turns one approved source photograph into consistent beverage listing imagery across a menu while keeping vessel, framing, lighting and brand look controlled. This cut image creation and processing time by ~75%.
+
+[**chief-of-staff-briefing**](https://github.com/vedantm1049/chief-of-staff-briefing): turns weekly metrics and task updates from each business into one view for the CEO: what's off target, overdue, stalled or waiting on their decision.
+[**Open the briefing demo**](https://vedantm1049.github.io/chief-of-staff-briefing/#/example.): a sample company with four weeks of history.
 
 [**food-truth-scanner**](https://github.com/vedantm1049/food-truth-scanner): a separate side project - a barcode-based food scoring and personalization prototype, unrelated to noon.\
 [**Try the guided scanner demo.**](https://vedantm1049.github.io/food-truth-scanner/)
