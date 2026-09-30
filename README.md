@@ -14,6 +14,6 @@ Two of the projects here are brand-neutral rebuilds of AI tools I designed and s
 [**brand-consistent-photo-studio**](https://github.com/vedantm1049/brand-consistent-photo-studio): turns one approved source photograph into consistent beverage listing imagery across a menu while keeping vessel, framing, lighting and brand look controlled. This cut image creation and processing time by ~75%.
 
 [**food-truth-scanner**](https://github.com/vedantm1049/food-truth-scanner): a separate side project - a barcode-based food scoring and personalization prototype, unrelated to noon.\
-[**Try the guided scanner demo**](https://vedantm1049.github.io/food-truth-scanner/)
+[**Try the guided scanner demo.**](https://vedantm1049.github.io/food-truth-scanner/)
 
 More background on [LinkedIn](https://linkedin.com/in/vedantjaindxb) or reach me at [vedant.jain@iiml.org](mailto:vedant.jain@iiml.org).
