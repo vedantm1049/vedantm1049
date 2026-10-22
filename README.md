@@ -2,21 +2,29 @@
 
 **AI-enabled zero-to-one operator.**
 
-I build and operate consumer businesses - owning P&L, procurement, hiring and the operating model. I also use AI to automate the parts of the business that should not stay manual.
+I build and run consumer businesses: P&L, procurement, hiring and the operating model. I use AI to automate the parts of a business that should not stay manual.
 
-Most recently, I took SHOT, noon's café business, from zero to an AED 19.6M annualised run-rate across 85 sites, and built AI tools used in its day-to-day operations.
+Most recently, I built SHOT, noon's café business, from zero to 85 sites across the UAE and Saudi Arabia, and built the AI tools its team used day to day.
 
-Two of the projects here are brand-neutral rebuilds of AI tools I designed and shipped for the cafe business. Chief of Staff Briefing and Food Truth Scanner are independent side projects. I own the problem definition, product logic and product decisions, and use Claude Code to build and ship the software.
+I define the problem, the product logic and the decisions, and use Claude Code to build and ship the software. The first two projects are brand-neutral rebuilds of tools I shipped for the café business. The rest are independent projects.
 
-[**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control): turns refund, rating and sales data into store rankings, root causes and prioritized action points. Built as a Claude Code / Cowork plugin, this is how the team decided which stores needed attention first, each period. The system became part of the production QC loop as the network scaled to 85 sites, while order ratings remained at 4.5/5 and retention reached 47%.\
-[**Open the QC demo**](https://vedantm1049.github.io/multi-cafe-quality-control/): explore the static dashboard with synthetic sample data. No app startup required.
+**Built for real operations**
 
-[**brand-consistent-photo-studio**](https://github.com/vedantm1049/brand-consistent-photo-studio): turns one approved source photograph into consistent beverage listing imagery across a menu while keeping vessel, framing, lighting and brand look controlled. This cut image creation and processing time by ~75%.
+[**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control): turns refund, rating and sales data into store rankings, root causes and prioritised fixes. Built as a Claude Code plugin, it replaced a 2-hour monthly review with a weekly run of under 10 minutes and became part of the quality loop as the network grew to 85 sites.\
+[**Open the QC demo**](https://vedantm1049.github.io/multi-cafe-quality-control/): a static dashboard on synthetic data, no startup needed.
 
-[**chief-of-staff-briefing**](https://github.com/vedantm1049/chief-of-staff-briefing): turns weekly metrics and task updates from each business into one view for the CEO: what's off target, overdue, stalled or waiting on their decision.\
-[**Open the briefing demo**](https://vedantm1049.github.io/chief-of-staff-briefing/#/example.): a sample company with four weeks of history.
+[**brand-consistent-photo-studio**](https://github.com/vedantm1049/brand-consistent-photo-studio): turns one approved photo into on-brand listing images across a whole menu, keeping the glass, framing and lighting fixed. Cut image creation time by about 75% across 140+ products.\
+[**Open the studio demo**](https://vedantm1049.github.io/brand-consistent-photo-studio/)
 
-[**food-truth-scanner**](https://github.com/vedantm1049/food-truth-scanner): a separate side project - a barcode-based food scoring and personalization prototype, unrelated to noon.\
-[**Try the guided scanner demo.**](https://vedantm1049.github.io/food-truth-scanner/)
+**Independent projects**
 
-More background on [LinkedIn](https://linkedin.com/in/vedantjaindxb) or reach me at [vedant.jain@iiml.org](mailto:vedant.jain@iiml.org).
+[**chief-of-staff-briefing**](https://github.com/vedantm1049/chief-of-staff-briefing): turns each team's weekly numbers and task updates into one view for the CEO: what is off target, overdue, stuck or waiting on their decision.\
+[**Open the briefing demo**](https://vedantm1049.github.io/chief-of-staff-briefing/#/example): a sample company with four weeks of history.
+
+[**care-corridor-model**](https://github.com/vedantm1049/care-corridor-model): what a UAE insurer saves when planned surgery moves to accredited hospitals in India, and how a care provider should price each case. Seven procedures, five cities, 21 hospitals.\
+[**Open the model**](https://vedantm1049.github.io/care-corridor-model/)
+
+[**food-truth-scanner**](https://github.com/vedantm1049/food-truth-scanner): scan a grocery barcode for an explainable food score, allergen warnings and fit against your own nutrition targets.\
+[**Try the scanner demo**](https://vedantm1049.github.io/food-truth-scanner/)
+
+More background on [LinkedIn](https://linkedin.com/in/vedantjaindxb), or reach me at [vedant.jain@iiml.org](mailto:vedant.jain@iiml.org).
