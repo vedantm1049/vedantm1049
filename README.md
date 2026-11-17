@@ -8,7 +8,7 @@ Built SHOT, noon's café business, from zero to 85 sites across the UAE and Saud
 
 **Built for real operations** (brand-neutral rebuilds of tools I shipped at SHOT)
 
-- [**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control): weekly store quality review, cut from 2 hours to under 10 minutes. [Demo](https://vedantm1049.github.io/multi-cafe-quality-control/)
+- [**multi-cafe-quality-control**](https://github.com/vedantm1049/multi-cafe-quality-control): store quality review, from a 2-hour monthly job to a 10-minute weekly run. [Demo](https://vedantm1049.github.io/multi-cafe-quality-control/)
 - [**brand-consistent-photo-studio**](https://github.com/vedantm1049/brand-consistent-photo-studio): on-brand menu images from one approved photo, 75% faster. [Demo](https://vedantm1049.github.io/brand-consistent-photo-studio/)
 
 **Independent projects**
