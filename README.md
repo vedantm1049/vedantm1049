@@ -2,7 +2,7 @@
 
 **Operator who builds and scales consumer businesses, and the AI tools that run them.**
 
-Built SHOT, noon's café business, from zero to 85 sites across the UAE and Saudi Arabia. Co-founded an ambulance helpline in India. I define the problem and the logic, and ship the software with Claude Code.
+Built SHOT (now called Native), noon's café business, from zero to 85 sites across the UAE and Saudi Arabia. Co-founded an ambulance helpline in India. I define the problem and the logic, and ship the software with Claude Code.
 
 [LinkedIn](https://linkedin.com/in/vedantjaindxb) · [vedant.jain@iiml.org](mailto:vedant.jain@iiml.org)
 
